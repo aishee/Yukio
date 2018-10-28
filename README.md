@@ -10,4 +10,8 @@
 
 ![X2](https://s2.anh.im/2018/10/28/Screenshot_2018-10-28_00-33-36d9b56421297f4c02.png)
 
-
+## Todo
+- Auto feed and create rules with OTX
+- Auto feed and create rules with Pulsedive
+- Web API
+....
